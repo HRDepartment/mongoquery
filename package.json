@@ -1,0 +1,12 @@
+{
+  "name": "mongoquery",
+  "version": "1.0.0",
+  "description": "Blazing fast MongoDB-style object querying (filter) and projecting (map).",
+  "main": "index.js",
+  "repository": "https://github.com/caresx/mongoquery",
+  "author": "Tycho Kaster",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
